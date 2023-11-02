@@ -26,7 +26,10 @@ img {
 div.text {
     padding: 15px;
 }
-
+.box .header .date {
+    float: right;
+    margin: 0;
+}
 .box {
     background: white;
     width: 600px;
