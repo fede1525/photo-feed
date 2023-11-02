@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: white;
+}
+
+div.header {
+    padding: 15px;
+}
+
+div.header h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
+img {
+    width: 100%;
+}
+
+div.text {
+    padding: 15px;
+}
+
+.box {
+    background: white;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
